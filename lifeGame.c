@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//sleep関数を使うために必要
+//usleep関数を使うために必要
 #include <unistd.h>
 
 //コマンドライン引数の順番
