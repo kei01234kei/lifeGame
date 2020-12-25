@@ -117,7 +117,7 @@ int main(int argc, char *argv[]) {
         //0.1秒処理を止める
         usleep(0.1*1000000);
         //コンソール画面をclearする
-        //system("clear");
+        system("clear");
 
         //range配列の様子を表示
         printf("第%d世代\n", h+1);
